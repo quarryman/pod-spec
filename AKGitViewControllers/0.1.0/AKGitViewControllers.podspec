@@ -30,7 +30,7 @@ this is totally fake pod. this is totally fake pod. this is totally fake pod. th
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'AKGitViewControllers/Classes/**/*'
+  s.source_files = 'AKGitViewControllers/Classes/**/*.{c,h,hh,m,mm}'
   
   # s.resource_bundles = {
   #   'AKGitViewControllers' => ['AKGitViewControllers/Assets/*.png']
